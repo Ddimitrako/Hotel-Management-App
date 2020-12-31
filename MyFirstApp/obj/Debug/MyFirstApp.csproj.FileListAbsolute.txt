@@ -1,0 +1,10 @@
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Form1.resources
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\bin\Debug\Hotel Managment System.exe.config
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\bin\Debug\Hotel Managment System.exe
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\bin\Debug\Hotel Managment System.pdb
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\obj\Debug\Hotel Managment System.exe
+C:\Users\dimitris\Documents\MEGA\C#\MyFirstApp\MyFirstApp\obj\Debug\Hotel Managment System.pdb
