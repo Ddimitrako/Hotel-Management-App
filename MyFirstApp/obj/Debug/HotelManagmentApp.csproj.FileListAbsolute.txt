@@ -26,3 +26,17 @@ C:\Users\dimitris\Documents\MEGA\C#\HotelManagementApp\MyFirstApp\obj\Debug\Hote
 C:\Users\dimitris\Documents\MEGA\C#\HotelManagementApp\MyFirstApp\obj\Debug\HotelManagmentApp.csproj.CopyComplete
 C:\Users\dimitris\Documents\MEGA\C#\HotelManagementApp\MyFirstApp\obj\Debug\Hotel Managment System.exe
 C:\Users\dimitris\Documents\MEGA\C#\HotelManagementApp\MyFirstApp\obj\Debug\Hotel Managment System.pdb
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\bin\Debug\Hotel Managment System.exe.config
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\bin\Debug\Hotel Managment System.exe
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\bin\Debug\Hotel Managment System.pdb
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\bin\Debug\Guna.UI2.dll
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\HotelManagmentApp.csprojAssemblyReference.cache
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\MyFirstApp.All_User_Control.UC_AddRoom.resources
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\MyFirstApp.Dashboard.resources
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\MyFirstApp.Form1.resources
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\HotelManagmentApp.csproj.GenerateResource.cache
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\HotelManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\HotelManagmentApp.csproj.CopyComplete
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\Hotel Managment System.exe
+C:\Users\dimitris\Documents\MEGA\Github-Repos\Hotel-Management-App\MyFirstApp\obj\Debug\Hotel Managment System.pdb

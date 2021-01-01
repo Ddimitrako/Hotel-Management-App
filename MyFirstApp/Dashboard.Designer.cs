@@ -60,7 +60,7 @@ namespace MyFirstApp
             this.panel1.Controls.Add(this.AddRoomBtn);
             this.panel1.Location = new System.Drawing.Point(146, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1251, 123);
+            this.panel1.Size = new System.Drawing.Size(1246, 123);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -76,7 +76,7 @@ namespace MyFirstApp
             // 
             this.EmployeesBtn.AutoRoundedCorners = true;
             this.EmployeesBtn.BorderColor = System.Drawing.Color.White;
-            this.EmployeesBtn.BorderRadius = 46;
+            this.EmployeesBtn.BorderRadius = 32;
             this.EmployeesBtn.BorderThickness = 3;
             this.EmployeesBtn.CheckedState.Parent = this.EmployeesBtn;
             this.EmployeesBtn.CustomImages.Parent = this.EmployeesBtn;
@@ -97,7 +97,7 @@ namespace MyFirstApp
             // 
             this.CustomerDetailsBtn.AutoRoundedCorners = true;
             this.CustomerDetailsBtn.BorderColor = System.Drawing.Color.White;
-            this.CustomerDetailsBtn.BorderRadius = 46;
+            this.CustomerDetailsBtn.BorderRadius = 32;
             this.CustomerDetailsBtn.BorderThickness = 3;
             this.CustomerDetailsBtn.CheckedState.Parent = this.CustomerDetailsBtn;
             this.CustomerDetailsBtn.CustomImages.Parent = this.CustomerDetailsBtn;
@@ -118,7 +118,7 @@ namespace MyFirstApp
             // 
             this.CheckOutBtn.AutoRoundedCorners = true;
             this.CheckOutBtn.BorderColor = System.Drawing.Color.White;
-            this.CheckOutBtn.BorderRadius = 46;
+            this.CheckOutBtn.BorderRadius = 32;
             this.CheckOutBtn.BorderThickness = 3;
             this.CheckOutBtn.CheckedState.Parent = this.CheckOutBtn;
             this.CheckOutBtn.CustomImages.Parent = this.CheckOutBtn;
@@ -139,7 +139,7 @@ namespace MyFirstApp
             // 
             this.CustomerRegistrationBtn.AutoRoundedCorners = true;
             this.CustomerRegistrationBtn.BorderColor = System.Drawing.Color.White;
-            this.CustomerRegistrationBtn.BorderRadius = 46;
+            this.CustomerRegistrationBtn.BorderRadius = 32;
             this.CustomerRegistrationBtn.BorderThickness = 3;
             this.CustomerRegistrationBtn.CheckedState.Parent = this.CustomerRegistrationBtn;
             this.CustomerRegistrationBtn.CustomImages.Parent = this.CustomerRegistrationBtn;
@@ -160,7 +160,7 @@ namespace MyFirstApp
             // 
             this.AddRoomBtn.AutoRoundedCorners = true;
             this.AddRoomBtn.BorderColor = System.Drawing.Color.White;
-            this.AddRoomBtn.BorderRadius = 46;
+            this.AddRoomBtn.BorderRadius = 32;
             this.AddRoomBtn.BorderThickness = 3;
             this.AddRoomBtn.CheckedState.Parent = this.AddRoomBtn;
             this.AddRoomBtn.CustomImages.Parent = this.AddRoomBtn;
@@ -179,6 +179,7 @@ namespace MyFirstApp
             // 
             // panel3
             // 
+            this.panel3.AllowDrop = true;
             this.panel3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel3.BackgroundImage")));
             this.panel3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
@@ -193,9 +194,9 @@ namespace MyFirstApp
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel4.Controls.Add(this.Exitbtn);
             this.panel4.Controls.Add(this.MinimizeBtn);
-            this.panel4.Location = new System.Drawing.Point(1403, 12);
+            this.panel4.Location = new System.Drawing.Point(1398, 12);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(57, 123);
+            this.panel4.Size = new System.Drawing.Size(62, 123);
             this.panel4.TabIndex = 3;
             // 
             // Exitbtn
@@ -203,13 +204,13 @@ namespace MyFirstApp
             this.Exitbtn.CheckedState.Parent = this.Exitbtn;
             this.Exitbtn.CustomImages.Parent = this.Exitbtn;
             this.Exitbtn.FillColor = System.Drawing.Color.Red;
-            this.Exitbtn.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Exitbtn.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(161)));
             this.Exitbtn.ForeColor = System.Drawing.Color.White;
             this.Exitbtn.HoverState.Parent = this.Exitbtn;
-            this.Exitbtn.Location = new System.Drawing.Point(3, 14);
+            this.Exitbtn.Location = new System.Drawing.Point(2, 14);
             this.Exitbtn.Name = "Exitbtn";
             this.Exitbtn.ShadowDecoration.Parent = this.Exitbtn;
-            this.Exitbtn.Size = new System.Drawing.Size(49, 39);
+            this.Exitbtn.Size = new System.Drawing.Size(53, 39);
             this.Exitbtn.TabIndex = 5;
             this.Exitbtn.Text = "Exit";
             this.Exitbtn.Click += new System.EventHandler(this.Exitbtn_Click);
@@ -218,14 +219,14 @@ namespace MyFirstApp
             // 
             this.MinimizeBtn.CheckedState.Parent = this.MinimizeBtn;
             this.MinimizeBtn.CustomImages.Parent = this.MinimizeBtn;
-            this.MinimizeBtn.FillColor = System.Drawing.Color.Aqua;
-            this.MinimizeBtn.Font = new System.Drawing.Font("Segoe UI", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(161)));
+            this.MinimizeBtn.FillColor = System.Drawing.Color.MediumAquamarine;
+            this.MinimizeBtn.Font = new System.Drawing.Font("Segoe UI Emoji", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MinimizeBtn.ForeColor = System.Drawing.Color.White;
             this.MinimizeBtn.HoverState.Parent = this.MinimizeBtn;
-            this.MinimizeBtn.Location = new System.Drawing.Point(3, 69);
+            this.MinimizeBtn.Location = new System.Drawing.Point(2, 69);
             this.MinimizeBtn.Name = "MinimizeBtn";
             this.MinimizeBtn.ShadowDecoration.Parent = this.MinimizeBtn;
-            this.MinimizeBtn.Size = new System.Drawing.Size(49, 39);
+            this.MinimizeBtn.Size = new System.Drawing.Size(53, 39);
             this.MinimizeBtn.TabIndex = 4;
             this.MinimizeBtn.TabStop = false;
             this.MinimizeBtn.Text = "Minimize";
