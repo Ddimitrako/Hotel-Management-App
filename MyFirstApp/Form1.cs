@@ -16,7 +16,7 @@ namespace MyFirstApp
         {
             InitializeComponent();
             this.BackColor = Color.White;
-            panel1.BackColor = Color.FromArgb(85, Color.Black);
+            //panel1.BackColor = Color.FromArgb(85, Color.Black);
             
         }
         protected override void OnPaint(PaintEventArgs e)
@@ -66,7 +66,7 @@ namespace MyFirstApp
             }
         }
 
-        private void exitBtn_Click(object sender, EventArgs e)
+        private void exitBtn_Click_1(object sender, EventArgs e)
         {
             Application.Exit();
         }
